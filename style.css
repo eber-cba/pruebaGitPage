@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+}
+.verde {
+  background-color: green;
+}
+.amarillo {
+  background-color: yellow;
+}
+.azul {
+  background-color: blue;
+}
+
+.violeta{
+    background-color: violet;
+}
+.naranja{
+    background-color: orange;
+}
+.negro{
+    background-color: black;
+}
+.rojo{
+    background-color: red;
+}
+.container{
+    background-color: aqua;
+}
+.dorado{
+    background-color: gold
+}
+
+.aqua{
+    background-color: aqua;
+}
+.otro1{
+    background-color: #2e0553;
+}
+.otro2{
+    background-color: #3fffb6;
+}
